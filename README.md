@@ -1,3 +1,3 @@
 # freely
 
-A "Public License" parody project. Only <50 characters.
+A "Public License" parody project. Under 40 characters.
